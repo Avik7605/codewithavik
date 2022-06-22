@@ -1,2 +1,9 @@
 Welcome to Code Academy
 Daily we are taking sync sessions
+canvas
+java
+javascript
+
+
+
+thankyou
